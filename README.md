@@ -47,7 +47,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ### Links
 
-- Solution URL:  https://github.com/polidorl/tailwind-card 
+- Solution URL:  https://github.com/polidorl/tailwind-card
 - Live Site URL:  https://polidorl.github.io/tailwind-card.git/
 
 ## My process
