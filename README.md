@@ -93,9 +93,10 @@ AlexCGDesign
 
 En el archivo package.json tenemos el script que se ejecuta en el terminal para
 generar el CSS optimizado con la purga aplicada o el flag --minify
-
+```
  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tw:build": "ENV=PRODUCTION npx tailwindcss -i ./src/css/tailwind.css -o ./src/css/estilos.css --minify",
     "tailDev": "npx tailwindcss -i ./src/css/tailwind.css -o ./src/css/estilos.css --watch"
   },
+  ```
